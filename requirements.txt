@@ -9,4 +9,6 @@ medpy
 SimpleITK
 scipy
 h5py
-segmentation_models_pytorch
+segmentation_models_pytorch==0.2.0
+einops
+yacs
